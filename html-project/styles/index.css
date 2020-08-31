@@ -1,0 +1,24 @@
+img {
+	width: 200px;
+	height: 200px;
+	/* this is a comment */
+}
+
+.site-name {
+	font-size: 30px;
+	font-weight: 400;
+	font-style: verdana;
+	color: rgb(247, 247, 248);
+	text-align: center;
+	text-decoration: underline;
+	background-color: rgb(59, 180, 180);
+}
+
+.content-block{
+	font-style: helvetica;
+	color: orange;
+}
+
+h2{
+	color: red;
+}
